@@ -46,8 +46,8 @@ Once complete, sign in to the AWS Management Console with your email and passwor
 <img width="1919" height="1057" alt="image" src="https://github.com/user-attachments/assets/f70c4ea1-44af-4504-9ced-9d71f731d846" />
 
 
-### REG NUMBER: 212224100043
-### NAME: Prathikshaa.S
+### REG NUMBER: 212223090009
+### NAME:HEMASANA.D
  ## use of AWS
  1. Hosting Websites & Applications
 
